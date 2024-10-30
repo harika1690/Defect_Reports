@@ -1,6 +1,6 @@
-Defect ID: DM-1
+**Defect ID:** DM-1
 
-Defect Title/Description: No other fields are displayed in the Sign-up window
+**Defect Title/Description:** No other fields are displayed in the Sign-up window
 
 Priority: Critical
 
